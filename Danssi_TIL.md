@@ -1,5 +1,13 @@
 # TIL
 
+# 22.10.11
+
+GALQ 자격증 취득^^
+
+K-평균 군집분석 (K-Means cluster) 
+* 사이킷런(sklearn) 활용해서 어떤 식으로 사용하는지
+* https://planharry.tistory.com/43 참고
+
 # 22.10.09 
 
 Pandas로 데이터셋에 원하는 컬럼의 문자열 추출 개수 세기
