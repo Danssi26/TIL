@@ -1,5 +1,7 @@
 # TIL
 
+## <span style="color:yellow">배움 기록소</span>
+
 # 22.10
 
 <details>
