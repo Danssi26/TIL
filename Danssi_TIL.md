@@ -26,21 +26,18 @@
 
     chrome_options = webdriver.ChromeOptions()
     driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=chrome_options)
-    # 페이지가 모두 로드될 때까지 10초 기다려주도록 처리 (암시적)
-    driver.implicitly_wait(10)
+
+    driver.implicitly_wait(3)
     # Selenium을 통해 실제 크롬창에서 접속한 것과 동일하게 해당 URL내용을 가져옴
     driver.get("희망 url")
 
-    # 페이지의 초기 높이 저장
     last_height = driver.execute_script("return document.body.scrollHeight")
-    # 전체 페이지를 제일 하단까지 스크롤
+ 
     while True:
-        # 해당 페이지를 맨 아래까지 스크롤
         driver.execute_script("window.scrollTo(0, document.body.scrollHeight)")
         time.sleep(2)
         new_height = driver.execute_script("return document.body.scrollHeight")
         if new_height == last_height:
-            # height 즉, 높이가 같다면 스크롤이 끝난 것이므로 종료
             break
         last_height = new_height
         html = driver.page_source
