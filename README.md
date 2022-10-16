@@ -1,6 +1,6 @@
 # TIL
 
-<span style="color:yellow">## 배움 기록소</span>
+<u>배움 기록소</u>
 
 # 22.10
 
