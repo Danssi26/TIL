@@ -1,5 +1,16 @@
 # TIL
 
+<details>
+<summary>22.10.16</summary>
+<div markdown="1">       
+
+네이버 지도 스크래핑
+* ifame으로 지도에서 검색어를 검색했을 때 나오는 결과창만을 뽑아냄
+* 검색 출력 창이 스크롤되지 않는 문제 발생
+* 
+</div>
+</details>
+
 # 22.10.11
 
 GALQ 자격증 취득^^
