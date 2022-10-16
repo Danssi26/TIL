@@ -14,7 +14,7 @@
     <details>
     <summary> 실패 코드 </summary>
     <div markdown="1"> 
-    ```Python
+    ```python
     from selenium import webdriver
     from bs4 import BeautifulSoup
     from selenium.webdriver.chrome.service import Service
@@ -43,9 +43,9 @@
             break
         last_height = new_height
         html = driver.page_source
-        ```
-        </div>
-        </details>
+    ```
+    </div>
+    </details>
 
 </div>
 </details>
