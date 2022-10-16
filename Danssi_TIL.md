@@ -1,17 +1,29 @@
 # TIL
 
 <details>
-# <summary> 22.10.16</summary>
+<summary> 22.10.16</summary>
 <div markdown="1">       
 
 네이버 지도 스크래핑
-* ifame으로 지도에서 검색어를 검색했을 때 나오는 결과창만을 뽑아냄
+* ifame으로 네이버 지도에서 검색어를 검색했을 때 나오는 결과창만을 뽑아냄
 * 검색 출력 창이 스크롤되지 않는 문제 발생
 * 
 </div>
 </details>
 
-# 22.10.11
+<details>
+<summary>22.10.11</summary>
+<div markdown="1">       
+
+GALQ 자격증 취득^^
+
+K-평균 군집분석 (K-Means cluster) 
+* 사이킷런(sklearn) 활용해서 어떤 식으로 사용하는지
+* https://planharry.tistory.com/43 참고
+
+</div>
+</details>
+
 
 GALQ 자격증 취득^^
 
