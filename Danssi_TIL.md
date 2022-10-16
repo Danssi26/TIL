@@ -24,19 +24,19 @@ K-평균 군집분석 (K-Means cluster)
 </div>
 </details>
 
-
-GALQ 자격증 취득^^
-
-K-평균 군집분석 (K-Means cluster) 
-* 사이킷런(sklearn) 활용해서 어떤 식으로 사용하는지
-* https://planharry.tistory.com/43 참고
-
-# 22.10.09 
+<details>
+<summary>22.10.09 </summary>
+<div markdown="1">       
 
 Pandas로 데이터셋에 원하는 컬럼의 문자열 추출 개수 세기
 * Velog에 코드 정리한 거 올려주기 https://velog.io/@dbdb26/Pandas-특정-문자열-추출-후-개수-세기
 
-# 22.10.07
+</div>
+</details>
+
+<details>
+<summary>22.10.07</summary>
+<div markdown="1">       
 
 깃 오류잡기 (성공)
 * 다시 처음부터 깃 레포지토리와 vscode 연결.
@@ -44,7 +44,13 @@ Pandas로 데이터셋에 원하는 컬럼의 문자열 추출 개수 세기
 
 파이썬 복습
 * 어수웅 강사님 강의 필기본 다시 보면서 클래스 복습
-# 22.10.05
+
+</div>
+</details>
+
+<details>
+<summary>22.10.05</summary>
+<div markdown="1">       
 
 깃 연결 오류잡기(1차 시도 실패)
 * vscode와의 연결 오류 찾으려했으나 실패 -> 이번 주 안으로 해결 도전
@@ -53,8 +59,12 @@ Pandas로 데이터셋에 원하는 컬럼의 문자열 추출 개수 세기
 * 포토폴리오 레퍼런스 수집
 * 경험정리 작성
 
+</div>
+</details>
 
-# 22.09.30
+<details>
+<summary>22.09.30</summary>
+<div markdown="1">       
 
 TIL 시작
 
@@ -64,3 +74,9 @@ TIL 시작
 
 도메인
 * 관심 도메인 탐색
+
+
+</div>
+</details>
+
+
