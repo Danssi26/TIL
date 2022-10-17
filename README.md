@@ -5,6 +5,49 @@
 # 22.10
 
 <details>
+<summary>22.10.17</summary>
+<div markdown="1">
+
+**텍스트 분석**
+* 통계 수업에 배웠던 코드 활용해서 리뷰 텍스트 분석
+    <details>
+    <summary>텍스트 분석 코드</summary>
+    <div makrkdown="1">
+
+    ```python
+    import pandas as pd
+    import numpy as np
+    import matplotlib.pyplot as plt
+    import re
+    import urllib.request
+    from konlpy.tag import Okt ## konlpy.tag 한국 형태소 분석기
+    from tqdm import tqdm
+    from tensorflow.keras.preprocessing.text import Tokenizer
+    from tensorflow.keras.preprocessing.sequence import pad_sequences
+
+    df = pd.read_excel('소금빵맛집_스윗솔트_리뷰200.xlsx')
+
+    from sklearn.feature_extraction.text import CountVectorizer
+    cv = CountVectorizer(stop_words='english', max_features=2000)
+    dtm = cv.fit_transform(df.bread)
+
+    word_count = pd.DataFrame({
+    '단어': cv.get_feature_names_out(),
+    '빈도': dtm.sum(axis=0).flat
+    })
+
+    word_count.sort_values('빈도', ascending=False).head(35)
+    ```
+* 오류 발생  
+테이블에 빈 행이 생겼더니 `AttributeError: 'int' object has no attribute 'lower' in TFIDF and CountVectorizer` 에러 발생
+* 생각보다 리뷰 데이터는 빵의 특성을 잘 보여주지 않는다는 것을 깨달음...  
+대부분 맛 평가를 '맛있다'로 퉁치고 상세하게 설명하지 않음
+    </div>
+    </details>
+
+
+
+<details>
 <summary> 22.10.16</summary>
 <div markdown="1">       
 
