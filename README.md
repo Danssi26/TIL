@@ -2,6 +2,8 @@
 
 `배움 기록소`
 
+# 22.10
+
 <details>
 <summary>22.10.18</summary>
 <div markdown="1">
@@ -13,8 +15,6 @@
 
 </div>
 </details>
-
-# 22.10
 
 <details>
 <summary>22.10.17</summary>
