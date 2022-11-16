@@ -2,6 +2,17 @@
 
 `배움 기록소`
 
+# 22.11
+
+<details>
+<summary>22.11.16</summary>
+<div markdown="1">
+
+**머신러닝, 딥러닝 스터디 OT**
+
+</div>
+</details>
+
 # 22.10
 
 <details>
