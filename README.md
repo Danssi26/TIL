@@ -4,6 +4,21 @@
 
 # 22.11
 
+details>
+<summary>22.11.17</summary>
+<div markdown="1">
+
+**Tech-verse2022**
+
+* 일본어 기반 모델 HyperCLOVA의 대규모화와 응용가능성
+일본어 기반 자연어 처리 모델을 개발  
+82B로 대규모한 모델에 대한 과제 발표  
+생성결과의 공평성과 윤리의 문제에 대한 고찰 필요
+프롬포트 응답을 빠르게 하기 위해서 어떤 방안 구상해보면 좋을지 생각해보기
+
+</div>
+</details>
+
 <details>
 <summary>22.11.16</summary>
 <div markdown="1">
