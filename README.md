@@ -4,7 +4,7 @@
 
 # 22.11
 
-details>
+<details>
 <summary>22.11.17</summary>
 <div markdown="1">
 
