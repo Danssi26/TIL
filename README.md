@@ -5,6 +5,17 @@
 # 22.11
 
 <details>
+<summary>22.11.18</summary>
+<div markdown="1">
+
+**MySQL 코딩테스트 스터디 문제 풀이**
+* solvesql - 최고의 근무일을 찾아라
+GROUP BY와 최댓값 출력 쿼리 복습
+
+</div>
+</details>
+
+<details>
 <summary>22.11.17</summary>
 <div markdown="1">
 
