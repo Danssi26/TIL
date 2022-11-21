@@ -5,6 +5,17 @@
 # 22.11
 
 <details>
+<summary>22.11.21</summary>
+<div markdown="1">
+
+**넘블 챌린지**
+* 그로잉맘 매출 데이터 분석  
+상반기 하반기 별 상품 판매량과 매출액 비교
+
+</div>
+</details>
+
+<details>
 <summary>22.11.18</summary>
 <div markdown="1">
 
