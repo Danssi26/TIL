@@ -5,6 +5,19 @@
 # 22.11
 
 <details>
+<summary>22.11.22</summary>
+<div markdown="1">
+
+**빵BTI 회고**
+* KPT 회고
+
+**빵BTI 깃헙 정비**
+* https://github.com/Bread-BTI/Bread-BTI
+
+</div>
+</details>
+
+<details>
 <summary>22.11.21</summary>
 <div markdown="1">
 
