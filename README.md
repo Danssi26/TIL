@@ -5,6 +5,20 @@
 # 22.11
 
 <details>
+<summary>22.11.23</summary>
+<div markdown="1">
+
+**MySQL 코딩테스트 스터디 문제 풀이**
+
+* leetcode - 1393. Capital Gain/Loss  
+https://leetcode.com/problems/capital-gainloss/
+* 문제 풀이  
+https://velog.io/@dbdb26/MySQL-leetcode1393.Capital-GainLoss
+
+</div>
+</details>
+
+<details>
 <summary>22.11.22</summary>
 <div markdown="1">
 
