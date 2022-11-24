@@ -5,6 +5,18 @@
 # 22.11
 
 <details>
+<summary>22.11.24</summary>
+<div markdown="1">
+
+**그로잉맘 넘블 챌린지**
+
+* `기대 판매 마진율` 계산
+* 브랜드 포지셔닝
+
+</div>
+</details>
+
+<details>
 <summary>22.11.23</summary>
 <div markdown="1">
 
