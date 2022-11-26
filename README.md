@@ -7,6 +7,20 @@
 # 22.11
 
 <details>
+<summary>22.11.26</summary>
+<div markdown="1">
+
+**SQL 코딩 테스트 스터디**
+
+**그로잉맘 넘블 챌린지**
+
+* 경쟁사 재조사
+* 매출 정리 마무리
+
+</div>
+</details>
+
+<details>
 <summary>22.11.24</summary>
 <div markdown="1">
 
