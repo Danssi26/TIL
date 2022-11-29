@@ -7,6 +7,18 @@
 # 22.11
 
 <details>
+<summary>22.11.29</summary>
+<div markdown="1">
+
+**모두의 딥러닝 시즌2 수강하고 정리**
+
+* https://run-the-world.notion.site/2-d5efda29d0f34c7098682fd15aef08cc
+
+</div>
+</details>
+
+
+<details>
 <summary>22.11.26</summary>
 <div markdown="1">
 
