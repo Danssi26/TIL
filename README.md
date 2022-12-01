@@ -12,10 +12,10 @@
 
 **MySQL 코딩테스트 스터디 문제 풀이**
 
-* solvesql - 지역별 주문의 특징
+* solvesql - 지역별 주문의 특징  
 https://solvesql.com/problems/characteristics-of-orders/
 
-* 문제풀이
+* 문제풀이  
 https://velog.io/@dbdb26/MySQL-solvesql-지역별-주문의-특징
 
 </div>
