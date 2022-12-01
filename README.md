@@ -4,6 +4,23 @@
 
 **22년도 9월부터 작성 중**
 
+# 22.12
+
+<details>
+<summary>22.12.01</summary>
+<div markdown="1">
+
+**MySQL 코딩테스트 스터디 문제 풀이**
+
+* solvesql - 지역별 주문의 특징
+https://solvesql.com/problems/characteristics-of-orders/
+
+* 문제풀이
+https://velog.io/@dbdb26/MySQL-solvesql-지역별-주문의-특징
+
+</div>
+</details>
+
 # 22.11
 
 <details>
@@ -22,7 +39,7 @@
 <summary>22.11.26</summary>
 <div markdown="1">
 
-**SQL 코딩 테스트 스터디**
+**MySQL 코딩 테스트 스터디**
 
 **그로잉맘 넘블 챌린지**
 
