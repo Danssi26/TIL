@@ -7,6 +7,18 @@
 # 22.12
 
 <details>
+<summary>22.12.04</summary>
+<div markdown="1">
+
+**머신러닝 교과서 필사**
+
+* ch.3 사이킷런, 서포트 벡터 머신을 사용한 최대 마진 분류
+
+</div>
+</details>
+
+
+<details>
 <summary>22.12.01</summary>
 <div markdown="1">
 
