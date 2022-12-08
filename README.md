@@ -7,6 +7,35 @@
 # 22.12
 
 <details>
+<summary>22.12.08</summary>
+<div markdown="1">
+
+**구글 BigQuery 스터디**
+
+* 일/주/월 분기별 매출액 및 주문건수
+* 평균매출
+* 매출 z차트
+
+
+* ch.3 사이킷런, 서포트 벡터 머신을 사용한 최대 마진 분류
+
+</div>
+</details>
+
+<details>
+<summary>22.12.07</summary>
+<div markdown="1">
+
+**머신러닝 스터디 모임**
+
+* 로지스틱 회귀분석
+* SVM
+* 추후 보충 예정
+
+</div>
+</details>
+
+<details>
 <summary>22.12.04</summary>
 <div markdown="1">
 
