@@ -7,10 +7,60 @@
 # 22.12
 
 <details>
+<summary>22.12.21</summary>
+<div markdown="1">
+
+**머신러닝 스터디 AdaBoost 발표**
+* AdaBoost 발표 자료 추후 업로드
+
+**DataCamp**
+* Introduction to R
+* Cluster Analysis in Python
+
+</div>
+</details>
+
+
+<details>
+<summary>22.12.20</summary>
+<div markdown="1">
+
+**머신러닝 스터디 AdaBoost 발표 준비**
+* AdaBoost 개념 및 알고리즘 정리
+* 사이킷런을 활용한 AdaBoost 실습
+
+**벨로그 모두를 위한 딥러닝 시즌2 정리 업로드**
+https://velog.io/@dbdb26/모두를-위한-딥러닝-시즌2-02-Simple-Linear-Regression
+
+</div>
+</details>
+
+
+<details>
+<summary>22.12.19</summary>
+<div markdown="1">
+
+**머신러닝 교과서 필사 및 FITB 수행**
+* Bagging
+* Boosting - AdaBoost
+https://github.com/Danssi26/ML-DL/tree/main/Ensemble%20Learning
+
+
+</div>
+</details>
+
+<details>
 <summary>22.12.15</summary>
 <div markdown="1">
 
 **모두콘 2022 참가**
+* 육아에서 배우는 데이터 유튜부 채널의 소통 방정식
+* 금융분야 AI 적용 방향
+* 모두를 위한, 모두에 의한 파이토치 사용자 모임
+* N행시를 지어주는 트위터봇? [문학적인 N군 개발기]
+* 음악으로 인사이드 아웃!
+* 당신 개발자 맞아?
+* 현대적인 추천 시스템 구축을 위한 여정
 
 </div>
 </details>
