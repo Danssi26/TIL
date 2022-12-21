@@ -29,7 +29,7 @@
 * AdaBoost 개념 및 알고리즘 정리
 * 사이킷런을 활용한 AdaBoost 실습
 
-**벨로그 모두를 위한 딥러닝 시즌2 정리 업로드**
+**벨로그 모두를 위한 딥러닝 시즌2 정리 업로드**  
 https://velog.io/@dbdb26/모두를-위한-딥러닝-시즌2-02-Simple-Linear-Regression
 
 </div>
