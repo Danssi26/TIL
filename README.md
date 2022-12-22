@@ -7,6 +7,18 @@
 # 22.12
 
 <details>
+<summary>22.12.22</summary>
+<div markdown="1">
+
+**SQL 스터디 문제 풀기**
+* RFM 분석
+* 인프런 - 다양한 사례로 익히는 SQL 데이터 분석 : RFM 항목 수강
+
+</div>
+</details>
+
+
+<details>
 <summary>22.12.21</summary>
 <div markdown="1">
 
