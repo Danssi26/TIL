@@ -16,6 +16,7 @@ https://velog.io/@dbdb26/모두를-위한-딥러닝-시즌2-04-Multi-variable-li
 
 </div>
 </details>
+
 # 22.12
 
 <details>
