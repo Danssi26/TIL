@@ -4,6 +4,18 @@
 
 **22년도 9월부터 작성 중**
 
+# 23.01
+
+<details>
+<summary>23.01.01</summary>
+<div markdown="1">
+
+**모두를 위한 딥러닝 시즌2 수강 후 정리**
+* 04 Multi variable linear regression  
+https://velog.io/@dbdb26/모두를-위한-딥러닝-시즌2-04-Multi-variable-linear-regression
+
+</div>
+</details>
 # 22.12
 
 <details>
