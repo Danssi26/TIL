@@ -12,7 +12,12 @@
 
 **모두를 위한 딥러닝 시즌2 수강 후 정리**
 * 04 Multi variable linear regression  
-https://velog.io/@dbdb26/모두를-위한-딥러닝-시즌2-04-Multi-variable-linear-regression
+* https://velog.io/@dbdb26/모두를-위한-딥러닝-시즌2-04-Multi-variable-linear-regression
+
+**머신러닝 스터디 과제 수행**
+* K-means clustering 필사
+* Hierarchical Clustering 필사
+* https://github.com/Danssi26/ML-DL/tree/main/Clustering
 
 </div>
 </details>
