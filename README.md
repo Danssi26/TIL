@@ -7,7 +7,7 @@
 # 23.01
 
 <details>
-<summary>22.01.02</summary>
+<summary>23.01.02</summary>
 <div markdown="1">
 
 **머신러닝 스터디 과제**
