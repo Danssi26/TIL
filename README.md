@@ -15,12 +15,13 @@
 * Hierarchical Clustering FITB
 * https://github.com/Danssi26/ML-DL/tree/main/Clustering
 
-* K-means clustering 관련 면접 질문 작성
+* K-means clustering 관련 면접 질문 작성  
+Q. K 평균 알고리즘의 단점을 개선한 모델은 어떤 것들이 있을까요? K 평균 알고리즘의 단점도 함께 설명해주세요. 
+
 <details>
 <summary>면접 답변</summary>
 <div markdown="1">
 
-Q. K 평균 알고리즘의 단점을 개선한 모델은 어떤 것들이 있을까요? K 평균 알고리즘의 단점도 함께 설명해주세요.  
 
 K 평균 알고리즘의 단점은 다음과 같습니다.
 
@@ -38,11 +39,11 @@ ISODATA 알고리즘은 K값의 크기가 불명확할 때 사용합니다. K평
 </div>
 </details>
 
-* Hierarchical Clustering 관련 면접 질문 작성
+* Hierarchical Clustering 관련 면접 질문 작성  
+Q. 계층적 클러스터와 비계층적 클러스터의 차이는 무엇일까요?  
 <details>
 <summary>면접 답변</summary>
 <div markdown="1">
-Q. 계층적 클러스터와 비계층적 클러스터의 차이는 무엇일까요?  
 
 비계층적 클러스터(Non-Hierarchical Clustering)란, 말그대로 계층을 두지않고 그룹화를 할 유사도 측정 방식에 따라 최적의 그룹(cluster)을 계속적으로 찾아나가는 방법입니다. 이러한 비계층적 클러스터에는 K-means가 있습니다. K-means는 중심기반(Center-based) 클러스터링 방법으로 “유사한 데이터는 중심점(centroid)을 기반으로 분포할 것이다”는 가정을 기반으로 합니다.
 
