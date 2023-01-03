@@ -7,6 +7,16 @@
 # 23.01
 
 <details>
+<summary>23.01.03</summary>
+<div markdown="1">
+
+**머신러닝 교과서 12 13 정리**
+
+</div>
+</details>
+
+
+<details>
 <summary>23.01.02</summary>
 <div markdown="1">
 
