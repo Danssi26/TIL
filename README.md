@@ -7,10 +7,22 @@
 # 23.01
 
 <details>
+<summary>23.01.04</summary>
+<div markdown="1">
+
+**머신러닝 스터디 참여**
+* K-means & Hierarchical Clustering 개념 발표 듣고 정리
+
+</div>
+</details>
+
+<details>
 <summary>23.01.03</summary>
 <div markdown="1">
 
-**머신러닝 교과서 12 13 정리**
+**머신러닝 교과서 개념 정리**
+* 12강
+* 13강
 
 </div>
 </details>
