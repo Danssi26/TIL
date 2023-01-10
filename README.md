@@ -7,6 +7,20 @@
 # 23.01
 
 <details>
+<summary>23.01.10</summary>
+<div markdown="1">
+
+
+**머신러닝 스터디 과제 수행**
+* Decision Tree
+* Random Forest 
+* https://github.com/Danssi26/ML-DL/tree/main/Decision%20Tree%20%26%20Random%20Forest
+
+</div>
+</details>
+
+
+<details>
 <summary>23.01.04</summary>
 <div markdown="1">
 
