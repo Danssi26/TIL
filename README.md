@@ -24,8 +24,7 @@
 * 쇼핑몰의 일일 매출액
 * 멘토링 짝꿍 리스트
 * 점검이 필요한 자전거 찾기
-* 코드 기록: https://velog.io/@dbdb26/MySQL-solvesql-%EC%97%B0%EC%8A%B5%EB%AC%B8%EC%A0%9C-%EA%B9%A8%EA%B8%B0%EB%82%9C%EC%9D%B4%EB%8F%84%EC%89%AC%EC%9B%80
-
+* 코드 기록: https://velog.io/@dbdb26/MySQL-solvesql-연습문제-깨기난이도쉬움
 </div>
 </details>
 
