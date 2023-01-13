@@ -6,6 +6,43 @@
 
 # 23.01
 
+
+<details>
+<summary>23.01.13</summary>
+<div markdown="1">
+
+
+**solvesql 난이도 쉬움 문제 전부 풀기**
+*기존에 풀었던 문제들은 다시 풀지 않음*
+* 데이터 그룹으로 묶기
+* 두 테이블 결합하기
+* 레스토랑 웨이터의 팁 분석
+* 특정 컬럼만 조회하기
+* 몇 분이서 오셨어요?
+* 최근 올림픽이 개최된 도시
+* 우리 플랫폼에 정착한 판매자1
+* 쇼핑몰의 일일 매출액
+* 멘토링 짝꿍 리스트
+* 점검이 필요한 자전거 찾기
+* 코드 기록: https://velog.io/@dbdb26/MySQL-solvesql-%EC%97%B0%EC%8A%B5%EB%AC%B8%EC%A0%9C-%EA%B9%A8%EA%B8%B0%EB%82%9C%EC%9D%B4%EB%8F%84%EC%89%AC%EC%9B%80
+
+</div>
+</details>
+
+
+<details>
+<summary>23.01.11</summary>
+<div markdown="1">
+
+
+**머신러닝 스터디 발표**
+* Decision Tree
+* Random Forest 
+* 발표자료: https://www.notion.so/run-the-world/Decision-Tree-Random-Forest-412d0ed7708d4bf0bfc55fd7e822257c
+
+</div>
+</details>
+
 <details>
 <summary>23.01.10</summary>
 <div markdown="1">
