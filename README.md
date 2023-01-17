@@ -6,6 +6,18 @@
 
 # 23.01
 
+<details>
+<summary>23.01.17</summary>
+<div markdown="1">
+
+
+**딥러닝 스터디 과제 수행**
+* 머신러닝 교과서 15장 심층 합성곱 신경망으로 이미지 분류 개념정리
+* 합성곱 신경망 관련 면접 질문 준비
+
+</div>
+</details>
+
 
 <details>
 <summary>23.01.13</summary>
