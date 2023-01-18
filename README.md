@@ -7,6 +7,19 @@
 # 23.01
 
 <details>
+<summary>23.01.18</summary>
+<div markdown="1">
+
+
+**딥러닝 스터디 참여**
+* 머신러닝 교과서 15장 심층 합성곱 신경망으로 이미지 분류
+* 개념 발표 듣고 정리
+
+</div>
+</details>
+
+
+<details>
 <summary>23.01.17</summary>
 <div markdown="1">
 
