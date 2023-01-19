@@ -7,6 +7,30 @@
 # 23.01
 
 <details>
+<summary>23.01.19</summary>
+<div markdown="1">
+
+
+**solvesql-datarian SQL 데이터 분석 캠프 실전반 쉬움 문제 풀기**
+* 첫 주문과 마지막 주문
+* 배송 예정일 예측 성공과 실패
+* 많이 주문한 테이블 찾기
+* 레스토랑의 대목
+* 레스토랑의 요일별 VIP
+* 레스토랑의 요일별 매출 요약
+
+**velog에 solvesql 코테 풀었던 거 일부 업로드**
+* https://velog.io/@dbdb26/MySQL-solvesql-연습문제-깨기-2난이도쉬움
+
+
+**개인 포토폴리오 수정**
+* 빵BTI 프로젝트 부분 전면 수정
+* https://danbichoi26.oopy.io/92a61b71-6190-4cbb-a6f8-52c1aca90dab
+
+</div>
+</details>
+
+<details>
 <summary>23.01.18</summary>
 <div markdown="1">
 
