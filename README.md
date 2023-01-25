@@ -7,6 +7,18 @@
 # 23.01
 
 <details>
+<summary>23.01.25</summary>
+<div markdown="1">
+
+
+**프로그래머의 뇌**
+
+
+</div>
+</details>
+
+
+<details>
 <summary>23.01.20</summary>
 <div markdown="1">
 
