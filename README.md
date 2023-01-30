@@ -20,6 +20,19 @@
 </details>
 
 <details>
+<summary>23.01.28</summary>
+<div markdown="1">
+
+
+**SQL 스터디 참여**
+
+* 코드 공유
+
+
+</div>
+</details>
+
+<details>
 <summary>23.01.27</summary>
 <div markdown="1">
 
