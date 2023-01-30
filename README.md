@@ -7,6 +7,19 @@
 # 23.01
 
 <details>
+<summary>23.01.30</summary>
+<div markdown="1">
+
+
+**CNN 개념 정리**
+
+**머신러닝 스터디 과제 데이터 정리**
+
+
+</div>
+</details>
+
+<details>
 <summary>23.01.27</summary>
 <div markdown="1">
 
