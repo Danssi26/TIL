@@ -14,7 +14,7 @@
 **RNN 개념 정리**
 * https://run-the-world.notion.site/b6258e74d0554a7c82b58f37e6cced42
 
-**딥러닝 스터디 과제**
+**딥러닝 스터디 과제**  
 https://github.com/Danssi26/ML-DL/tree/main/CNN
 * CNN 필사
 * CNN FITB
