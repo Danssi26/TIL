@@ -7,13 +7,31 @@
 # 23.01
 
 <details>
+<summary>23.01.31</summary>
+<div markdown="1">
+
+
+**RNN 개념 정리**
+* https://run-the-world.notion.site/b6258e74d0554a7c82b58f37e6cced42
+
+**딥러닝 스터디 과제**
+https://github.com/Danssi26/ML-DL/tree/main/CNN
+* CNN 필사
+* CNN FITB
+
+
+
+</div>
+</details>
+
+<details>
 <summary>23.01.30</summary>
 <div markdown="1">
 
 
 **CNN 개념 정리**
 
-**머신러닝 스터디 과제 데이터 정리**
+**딥러닝 스터디 과제(CNN) 관련 데이터 정리**
 
 
 </div>
