@@ -4,6 +4,23 @@
 
 **22년도 9월부터 작성 중**
 
+
+# 23.02
+
+<details>
+<summary>23.02.01</summary>
+<div markdown="1">
+
+**딥러닝 스터디 발표 준비 및 발표**
+* 순차데이터 소개
+* 트랜스포머 모델(Transformer)  
+* 발표 자료  
+https://www.notion.so/run-the-world/2f9de1a8742f40058feecd60c4ac5670
+
+</div>
+</details>
+
+
 # 23.01
 
 <details>
@@ -18,8 +35,6 @@
 https://github.com/Danssi26/ML-DL/tree/main/CNN
 * CNN 필사
 * CNN FITB
-
-
 
 </div>
 </details>
