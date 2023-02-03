@@ -25,7 +25,7 @@
 * 조건별로 분류하여 주문상태 출력하기
 * 가격이 제일 비싼 식품의 정보 출력하기
 
-**Transformer 모델 한글 챗봇 실습**
+**Transformer 모델 한글 챗봇 실습**  
 실습 코드 참고 출처: https://github.com/ukairia777/tensorflow-transformer
 
 </div>
