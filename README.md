@@ -8,6 +8,22 @@
 # 23.02
 
 <details>
+<summary>23.02.06</summary>
+<div markdown="1">
+
+**딥러닝 스터디 과제 수행**
+* RNN 필사  
+https://github.com/Danssi26/ML-DL/blob/main/RNN/16_2_16_3_Transcript.ipynb
+* RNN FITB  
+https://github.com/Danssi26/ML-DL/blob/main/RNN/16.2_16.3_RNN_%20FITB.ipynb
+* Transformer 모델 필사
+* Transformer 모델 FITB
+
+</div>
+</details>
+
+
+<details>
 <summary>23.02.03</summary>
 <div markdown="1">
 
