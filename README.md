@@ -16,8 +16,10 @@
 https://github.com/Danssi26/ML-DL/blob/main/RNN/16_2_16_3_Transcript.ipynb
 * RNN FITB  
 https://github.com/Danssi26/ML-DL/blob/main/RNN/16.2_16.3_RNN_%20FITB.ipynb
-* Transformer 모델 필사
-* Transformer 모델 FITB
+* Transformer 모델 필사  
+https://github.com/Danssi26/ML-DL/blob/main/RNN/16_1_16_4_Transformer_Transcript.ipynb
+* Transformer 모델 FITB  
+https://github.com/Danssi26/ML-DL/blob/main/RNN/16_1_16_4_FITB.ipynb
 
 </div>
 </details>
