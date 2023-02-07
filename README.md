@@ -11,7 +11,7 @@
 <summary>23.02.07</summary>
 <div markdown="1">
 
-**딥러닝 스터디 개념 정리**
+**딥러닝 스터디 개념 정리 및 공부**
 * GAN(Generative Adversarial Network)  
 https://www.notion.so/run-the-world/a9cc5014f4dd44ae9202acab26a0cd1b
 
