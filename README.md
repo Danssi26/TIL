@@ -8,6 +8,18 @@
 # 23.02
 
 <details>
+<summary>23.02.07</summary>
+<div markdown="1">
+
+**딥러닝 스터디 개념 정리**
+* GAN(Generative Adversarial Network)  
+https://www.notion.so/run-the-world/a9cc5014f4dd44ae9202acab26a0cd1b
+
+
+</div>
+</details>
+
+<details>
 <summary>23.02.06</summary>
 <div markdown="1">
 
