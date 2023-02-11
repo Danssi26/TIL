@@ -8,6 +8,16 @@
 # 23.02
 
 <details>
+<summary>23.02.11</summary>
+<div markdown="1">
+
+**SQL 스터디 참여**
+* 코드 공유
+
+</div>
+</details>
+
+<details>
 <summary>23.02.10</summary>
 <div markdown="1">
 
