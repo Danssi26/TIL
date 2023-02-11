@@ -8,6 +8,21 @@
 # 23.02
 
 <details>
+<summary>23.02.10</summary>
+<div markdown="1">
+
+**프로그래머스 SQL 코딩 테스트 풀이**
+* 취소되지 않은 진료 예약 조회하기  
+풀이: https://velog.io/@dbdb26/MySQL-programmers-저자-별-카테고리-별-매출액-집계하기
+* 저자 별 카테고리 별 매출액 집계하기  
+풀이: https://velog.io/@dbdb26/MySQL-programmers-저자-별-카테고리-별-매출액-집계하기-vcyr2tth  
+* 5월 식품들의 총매출 조회하기  
+풀이: https://velog.io/@dbdb26/MySQL-programmers-5월-식품들의-총매출-조회하기
+
+</div>
+</details>
+
+<details>
 <summary>23.02.07</summary>
 <div markdown="1">
 
