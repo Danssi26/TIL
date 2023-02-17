@@ -8,6 +8,21 @@
 # 23.02
 
 <details>
+<summary>23.02.17</summary>
+<div markdown="1">
+
+**프로그래머스 SQL 코딩 테스트 풀이**
+* 대여 기록이 존재하는 자동차 리스트 구하기
+* 자동차 대여 기록에서 대여중 / 대여 가능 여부 구분하기
+* 상품을 구매한 회원 비율 구하기  
+풀이: https://velog.io/@dbdb26/MySQL-programmers-상품을-구매한-회원-비율-구하기
+* 주문량이 많은 아이스크림들 조회하기
+
+</div>
+</details>
+
+
+<details>
 <summary>23.02.16</summary>
 <div markdown="1">
 
