@@ -18,6 +18,10 @@
 풀이: https://velog.io/@dbdb26/MySQL-programmers-상품을-구매한-회원-비율-구하기
 * 주문량이 많은 아이스크림들 조회하기
 
+**DATACAMP - Introduction to R 수강**
+* Intro to basics (완료)
+* Vectors (32%)
+
 </div>
 </details>
 
