@@ -8,6 +8,17 @@
 # 23.02
 
 <details>
+<summary>23.02.18</summary>
+<div markdown="1">
+
+**DATACAMP - Introduction to R 수강**
+* Vectors (완료)
+
+</div>
+</details>
+
+
+<details>
 <summary>23.02.17</summary>
 <div markdown="1">
 
