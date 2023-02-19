@@ -8,6 +8,18 @@
 # 23.02
 
 <details>
+<summary>23.02.19</summary>
+<div markdown="1">
+
+**DL 스터디 과제 수행**  
+https://github.com/Danssi26/ML-DL/tree/main/RL
+* RL FITB
+* RL Transcript
+
+</div>
+</details>
+
+<details>
 <summary>23.02.18</summary>
 <div markdown="1">
 
