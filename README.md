@@ -14,6 +14,9 @@
 **DATACAMP - Cluster Analysis in Python 수강**  
 * Introduction to Clustering (46%)
 
+**DATACAMP - Introduction to R 수강**
+* Matrices (30%)
+
 **SQLD 자격증 공부**
 * 개념공부 - 프로젝트 생명주기에서 데이터 모델링까지 
 * 기출문제 풀이
