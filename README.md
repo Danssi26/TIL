@@ -8,6 +8,21 @@
 # 23.02
 
 <details>
+<summary>23.02.20</summary>
+<div markdown="1">
+
+**DATACAMP - Cluster Analysis in Python 수강**  
+* Introduction to Clustering (46%)
+
+**SQLD 자격증 공부**
+* 개념공부 - 프로젝트 생명주기에서 데이터 모델링까지 
+* 기출문제 풀이
+
+</div>
+</details>
+
+
+<details>
 <summary>23.02.19</summary>
 <div markdown="1">
 
@@ -18,6 +33,7 @@ https://github.com/Danssi26/ML-DL/tree/main/RL
 
 </div>
 </details>
+
 
 <details>
 <summary>23.02.18</summary>
