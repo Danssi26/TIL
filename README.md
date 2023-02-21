@@ -8,7 +8,7 @@
 # 23.02
 
 <details>
-<summary>23.02.21/summary>
+<summary>23.02.21</summary>
 <div markdown="1">
 
 **DATACAMP - Cluster Analysis in Python 수강**  
