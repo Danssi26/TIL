@@ -8,6 +8,20 @@
 # 23.02
 
 <details>
+<summary>23.02.22</summary>
+<div markdown="1">
+
+**DATACAMP - Cluster Analysis in Python 수강**  
+* Introduction to Clustering (완료)
+
+**DL 스터디**
+* GAN 개념 정리 발표 듣기
+* 3주간 진행할 프로젝트 선정 : 월간 데이콘 신용카드 사기 거래 탐지 AI 경진대회 
+
+</div>
+</details>
+
+<details>
 <summary>23.02.21</summary>
 <div markdown="1">
 
