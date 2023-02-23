@@ -8,6 +8,25 @@
 # 23.02
 
 <details>
+<summary>23.02.23</summary>
+<div markdown="1">
+
+**DATACAMP - Cluster Analysis in Python 수강**  
+* Hierarchical Clustering (24%)
+
+**DATACAMP - Introduction to R 수강**
+* Matrices (완료)
+
+**SQLD 자격증 공부**
+* 개념공부 - 과목 1 일회독 - 하지만 후루룩 읽어서 적어도 3회독은 목표
+* 기출문제 풀이
+* SQLD 기출 정리강의 1편 38회 기출 영상보고 개념 채우기  
+링크: https://youtu.be/G9xtiEH2LTg
+
+</div>
+</details>
+
+<details>
 <summary>23.02.22</summary>
 <div markdown="1">
 
