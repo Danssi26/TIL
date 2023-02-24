@@ -8,6 +8,28 @@
 # 23.02
 
 <details>
+<summary>23.02.24</summary>
+<div markdown="1">
+
+**DATACAMP - Cluster Analysis in Python 수강**  
+* Hierarchical Clustering (31%)
+
+**DATACAMP - Introduction to R 수강**
+* Factors (완료)
+
+**DL 스터디**
+* 이상치 탐지 개념 공부  
+https://www.notion.so/run-the-world/Outlier-Detection-164e43c175cf457f96cfd4884038cb09?pvs=4
+
+**SQLD 자격증 공부**
+* 개념공부 - 데이터 모델과 성능
+* SQL 자격검정 실전문제 과목 1 1회독
+
+</div>
+</details>
+
+
+<details>
 <summary>23.02.23</summary>
 <div markdown="1">
 
@@ -18,7 +40,7 @@
 * Matrices (완료)
 
 **SQLD 자격증 공부**
-* 개념공부 - 과목 1 일회독 - 하지만 후루룩 읽어서 적어도 3회독은 목표
+* 개념공부 - 과목 1 1회독 - 하지만 후루룩 읽어서 적어도 3회독은 목표
 * 기출문제 풀이
 * SQLD 기출 정리강의 1편 38회 기출 영상보고 개념 채우기  
 링크: https://youtu.be/G9xtiEH2LTg
