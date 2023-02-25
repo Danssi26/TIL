@@ -8,6 +8,19 @@
 # 23.02
 
 <details>
+<summary>23.02.25</summary>
+<div markdown="1">
+
+**DATACAMP - Introduction to R 수강**
+* Data frames (완료)
+
+**SQLD 자격증 공부**
+* 기출문제 모음 - 데이터 모델링의 이해, SQL 기본 및 활용 풀이
+
+</div>
+</details>
+
+<details>
 <summary>23.02.24</summary>
 <div markdown="1">
 
