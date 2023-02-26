@@ -8,6 +8,18 @@
 # 23.02
 
 <details>
+<summary>23.02.26</summary>
+<div markdown="1">
+
+**DATACAMP - Introduction to R 수강**
+* 코스 완료
+* 연습 문제 완료
+
+
+</div>
+</details>
+
+<details>
 <summary>23.02.25</summary>
 <div markdown="1">
 
