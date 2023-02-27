@@ -14,11 +14,12 @@
 **DATACAMP - Intermediate R 수강**
 * Conditionals and Control Flow (57%)
 
-**`NAVER DEVIEW 2023` 세션 이해를 위한 개념 공부..ㅎ
+**`NAVER DEVIEW 2023` 세션 이해를 위한 개념 공부..ㅎ**
 * CT5 구조
 * Full scan 검색 방식
 * NoIR(No Information Retrieval)
 * Quality Estimation(QE)
+* 코퍼스 마이닝(Corpus Mining)
 
 </div>
 </details>
