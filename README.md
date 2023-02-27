@@ -8,6 +8,23 @@
 # 23.02
 
 <details>
+<summary>23.02.27</summary>
+<div markdown="1">
+
+**DATACAMP - Intermediate R 수강**
+* Conditionals and Control Flow (57%)
+
+**`NAVER DEVIEW 2023` 세션 이해를 위한 개념 공부..ㅎ
+* CT5 구조
+* Full scan 검색 방식
+* NoIR(No Information Retrieval)
+* Quality Estimation(QE)
+
+</div>
+</details>
+
+
+<details>
 <summary>23.02.26</summary>
 <div markdown="1">
 
@@ -15,7 +32,7 @@
 * 코스 완료
 * 연습 문제 완료
 
-**`데이터읽기의 기술` 1챕터**
+**`데이터 읽기의 기술` 1챕터**
 * 구체적인 아이디어, 측정 가능한 단위, 논리적으로 증빙할 수 있는 아이디어 이야기한 후 이에 따른 기술적인 문제나 비용, 발생 가능한 다른 문제점을 논의
 * 영수증에 담긴 데이터 - 육하원칙으로 영수증을 탐색하여 인사이트 끌어내기
 
