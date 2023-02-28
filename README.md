@@ -8,6 +8,29 @@
 # 23.02
 
 <details>
+<summary>23.02.28</summary>
+<div markdown="1">
+
+**DATACAMP - Intermediate R 수강**
+* Conditionals and Control Flow (63%)
+
+**DATACAMP - Introduction to R 연습문제**
+
+**`NAVER DEVIEW 2023`**
+* Transformer 기반의 Global pLACE(GLACE) Matching 개발기
+* 이해, 생성, 효율: 세 마리 토끼 다 잡는 Seq2Seq HyperCLOVA
+* Noir: 메일검색 서버를 반의 반으로 줄여준 신규 검색엔진 제작기
+* 파파고의 빨간펜 선생님: 자동 번역 품질 평가 모델 구축과 응용
+* Remember Me: 맞춤 케어를 위한 기억하기 챗봇
+
+**`헤이조이스` 챗GPT 비기너 클래스**
+* ChatGPT 실용 활용 방안 및 유의점
+
+</div>
+</details>
+
+
+<details>
 <summary>23.02.27</summary>
 <div markdown="1">
 
