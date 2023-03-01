@@ -5,6 +5,22 @@
 **22년도 9월부터 작성 중**
 
 
+# 23.03
+
+<details>
+<summary>23.03.01</summary>
+<div markdown="1">
+
+**DATACAMP - Intermediate R 수강**
+* Conditionals and Control Flow (완료)
+
+
+**SQLD 자격증 공부**
+* 21회차 기출문제 풀어보고 모르는 개념 기록 및 공부
+* 명령어 외울때까지 깜지...
+</div>
+</details>
+
 # 23.02
 
 <details>
