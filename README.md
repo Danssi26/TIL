@@ -8,6 +8,24 @@
 # 23.03
 
 <details>
+<summary>23.03.03</summary>
+<div markdown="1">
+
+**DATACAMP - Introduction to R 퀴즈풀기**
+* Review
+
+**DL 스터디 프로젝트 과제 - 이상치 알고리즘 모델**
+* RandomForest
+* Logistic regression
+* Autoencoder
+
+*감기몸살로 컨디션 망한 덕에 공부할당 못 채워서 억울...*
+
+</div>
+</details>
+
+
+<details>
 <summary>23.03.02</summary>
 <div markdown="1">
 
