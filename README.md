@@ -8,6 +8,26 @@
 # 23.03
 
 <details>
+<summary>23.03.05</summary>
+<div markdown="1">
+
+**DATACAMP - Intermediate R 수강**
+* Loops (67%)
+
+**`원티드` 프리온보딩 데이터 챌린지 3월**
+* 데이터 전처리 그리고 EDA 특강
+* GoogleBigQuery 데이터 임포트
+* 원하는 데이터 추출을 위한 쿼리문 (SPLIT 함수)
+* BigQuery와 Colab 연동
+* WordCloud 생성
+
+
+
+</div>
+</details>
+
+
+<details>
 <summary>23.03.04</summary>
 <div markdown="1">
 
