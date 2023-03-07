@@ -8,6 +8,21 @@
 # 23.03
 
 <details>
+<summary>23.03.07</summary>
+<div markdown="1">
+
+**DATACAMP - Anomaly Detection in Python**
+* Detecting Univariate Outliers (55%)
+
+**Isolation Forest 개념 공부**
+* 정리해놓은 문서 추후 링크 공유
+
+
+</div>
+</details>
+
+
+<details>
 <summary>23.03.06</summary>
 <div markdown="1">
 
