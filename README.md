@@ -8,6 +8,22 @@
 # 23.03
 
 <details>
+<summary>23.03.08</summary>
+<div markdown="1">
+
+**DATACAMP - Anomaly Detection in Python**
+* Detecting Univariate Outliers (완료)
+
+**Isolation Forest 모델 베이스라인 잡기**
+
+**SQLD 자격증 개념 정리해놓은 거 2회독 (30%)**
+
+</div>
+</details>
+
+
+
+<details>
 <summary>23.03.07</summary>
 <div markdown="1">
 
