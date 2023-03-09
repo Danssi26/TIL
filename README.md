@@ -8,6 +8,19 @@
 # 23.03
 
 <details>
+<summary>23.03.09</summary>
+<div markdown="1">
+
+**DATACAMP - Anomaly Detection in Python**
+* Isolation Forests with PyOD (43%)
+
+**miss Forest 모델 개념 공부**
+
+</div>
+</details>
+
+
+<details>
 <summary>23.03.08</summary>
 <div markdown="1">
 
@@ -20,7 +33,6 @@
 
 </div>
 </details>
-
 
 
 <details>
