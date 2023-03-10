@@ -7,6 +7,17 @@
 
 # 23.03
 
+
+<details>
+<summary>23.03.10</summary>
+<div markdown="1">
+
+**Isolation Forest modeling**
+
+</div>
+</details>
+
+
 <details>
 <summary>23.03.09</summary>
 <div markdown="1">
