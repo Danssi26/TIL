@@ -8,6 +8,18 @@
 # 23.03
 
 <details>
+<summary>23.03.13</summary>
+<div markdown="1">
+
+
+**SQLD 자격증 공부**
+* 개념 2회독(진행 중)
+* 기출문제 30회 오답노트
+
+</div>
+</details>
+
+<details>
 <summary>23.03.11</summary>
 <div markdown="1">
 
