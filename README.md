@@ -8,6 +8,18 @@
 # 23.03
 
 <details>
+<summary>23.03.15</summary>
+<div markdown="1">
+
+
+**SQLD 자격증 공부**
+* 개념 2회독
+* 기출 오답 한 번 더 돌리기
+
+</div>
+</details>
+
+<details>
 <summary>23.03.13</summary>
 <div markdown="1">
 
