@@ -8,6 +8,21 @@
 # 23.03
 
 <details>
+<summary>23.03.17</summary>
+<div markdown="1">
+
+
+**SQLD 자격증 공부**
+
+
+**DL 모델링 프로젝트 진행**
+* 모델링 코드 돌려본거 검수
+
+</div>
+</details>
+
+
+<details>
 <summary>23.03.16</summary>
 <div markdown="1">
 
@@ -20,6 +35,7 @@
 </div>
 </details>
 
+
 <details>
 <summary>23.03.15</summary>
 <div markdown="1">
@@ -31,6 +47,7 @@
 
 </div>
 </details>
+
 
 <details>
 <summary>23.03.13</summary>
