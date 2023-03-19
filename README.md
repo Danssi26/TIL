@@ -8,6 +8,19 @@
 # 23.03
 
 <details>
+<summary>23.03.19</summary>
+<div markdown="1">
+
+
+**SQLD 자격증 시험**
+
+
+**DL 모델링 프로젝트 마무리
+* 모델링 코드 발표
+* 제출 및 발표
+
+
+<details>
 <summary>23.03.17</summary>
 <div markdown="1">
 
