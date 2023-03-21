@@ -8,6 +8,20 @@
 # 23.03
 
 <details>
+<summary>23.03.21</summary>
+<div markdown="1">
+
+**DATACAMP - Introduction R checkup**
+
+**빅데이터 분석 기사 필기 시험**
+* 1과목 - 데이터 분석 기획
+
+
+</div>
+</details>
+
+
+<details>
 <summary>23.03.20</summary>
 <div markdown="1">
 
