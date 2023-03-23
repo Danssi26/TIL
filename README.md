@@ -8,6 +8,21 @@
 # 23.03
 
 <details>
+<summary>23.03.23</summary>
+<div markdown="1">
+
+**빅데이터 분석 기사 필기 시험**
+* 1과목 
+
+**`데이터 분석가의 숫자유감` 독서**
+* 인과관계 =/= 상관관계
+
+
+</div>
+</details>
+
+
+<details>
 <summary>23.03.22</summary>
 <div markdown="1">
 
