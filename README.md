@@ -8,6 +8,33 @@
 # 23.03
 
 <details>
+<summary>23.03.25</summary>
+<div markdown="1">
+
+**`원티드` 프리온보딩 데이터 챌린지 복습**
+* GoogleBigQuery 복습
+* SQL 스터디 공부 인증 제출
+
+</div>
+</details>
+
+
+<details>
+<summary>23.03.24</summary>
+<div markdown="1">
+
+**빅데이터 분석 기사 필기 시험**
+* 1과목 
+
+**`데이터 분석가의 숫자유감` 독서**
+* 인과관계 =/= 상관관계
+
+
+</div>
+</details>
+
+
+<details>
 <summary>23.03.23</summary>
 <div markdown="1">
 
