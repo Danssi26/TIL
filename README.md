@@ -8,6 +8,16 @@
 # 23.03
 
 <details>
+<summary>23.03.29</summary>
+<div markdown="1">
+
+**빅분기 2과목 복습**
+
+</div>
+</details>
+
+
+<details>
 <summary>23.03.28</summary>
 <div markdown="1">
 
