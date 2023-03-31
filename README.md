@@ -8,6 +8,19 @@
 # 23.03
 
 <details>
+<summary>23.03.31</summary>
+<div markdown="1">
+
+**DATACAMP - Applying SQL to Real-World Problems 수강**
+* Use Real-World SQL (완료)
+
+**빅분기**
+
+</div>
+</details>
+
+
+<details>
 <summary>23.03.29</summary>
 <div markdown="1">
 
