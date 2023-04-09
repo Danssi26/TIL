@@ -7,6 +7,18 @@
 # 23.04
 
 <details>
+<summary>23.04.09</summary>
+<div markdown="1">
+
+
+**`데이터 분석가의 숫자유감` 독서**
+* 모수와 모집단
+
+</div>
+</details>
+
+
+<details>
 <summary>23.04.06</summary>
 <div markdown="1">
 
