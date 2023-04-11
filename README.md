@@ -7,7 +7,21 @@
 # 23.04
 
 <details>
-<summary>23.04.09</summary>
+<summary>23.04.11</summary>
+<div markdown="1">
+
+
+**청년층 직업지도 프로그램 참여**
+* CAP@ - 취업준비
+
+**이력서 및 포트폴리오 수정**
+
+</div>
+</details>
+
+
+<details>
+<summary>23.04.10</summary>
 <div markdown="1">
 
 
