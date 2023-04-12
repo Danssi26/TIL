@@ -7,6 +7,26 @@
 # 23.04
 
 <details>
+<summary>23.04.12</summary>
+<div markdown="1">
+
+
+**청년층 직업지도 프로그램 참여**
+* CAP@ - 취업준비
+
+**포트폴리오 수정**
+
+**DataCamp - Data Visualization in Power BI**
+* The Audience is King (완료)
+* Add a table and slicers
+* Create a scatter plot & bubble chart
+
+
+</div>
+</details>
+
+
+<details>
 <summary>23.04.11</summary>
 <div markdown="1">
 
@@ -15,6 +35,8 @@
 * CAP@ - 취업준비
 
 **이력서 및 포트폴리오 수정**
+* 날짜 오류 수정
+* 프로젝트 항목 상세 작성 및 형식 변경
 
 </div>
 </details>
