@@ -7,6 +7,25 @@
 # 23.04
 
 <details>
+<summary>23.04.13</summary>
+<div markdown="1">
+
+
+**청년층 직업지도 프로그램 참여**
+* CAP@ - 취업준비
+
+
+**DataCamp - Data Visualization in Power BI**
+* Getting an Emotional Response (완료)
+* Create a bar chart
+* Stacking variables
+* Using small multiples
+
+
+</div>
+</details>
+
+<details>
 <summary>23.04.12</summary>
 <div markdown="1">
 
