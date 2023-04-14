@@ -7,6 +7,37 @@
 # 23.04
 
 <details>
+<summary>23.04.14</summary>
+<div markdown="1">
+
+**프로그래머스 SQL 코딩 테스트 풀이**
+
+*작성 코드 https://github.com/Danssi26/Coding_Test_Hub/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv4*
+* [level 4] 년, 월, 성별 별 상품 구매 회원 수 구하기
+* [level 4] 서울에 위치한 식당 목록 출력하기  
+
+**면접 예상 질문 선정해서 답변 작성하기**
+
+*인터뷰 질문참고 https://zzsza.github.io/data/2018/02/17/datascience-interivew-questions/#contents*
+* 좋은 feature란 무엇인가요. 이 feature의 성능을 판단하기 위한 방법에는 어떤 것이 있나요?
+* Tableau같은 BI Tool은 어느 경우 도입하면 좋을까요?
+* 파이차트는 왜 구릴까요? 언제 구린가요? 안구릴때는 언제인가요?
+* “신규/재방문자별 지역별(혹은 일별) 방문자수와 구매전환율”이나 “고객등급별 최근방문일별 고객수와 평균구매금액”와 같이 4가지 이상의 정보를 시각화하는 가장 좋은 방법을 추천해주세요
+* 히스토그램의 가장 큰 문제는 무엇인가요?
+* 워드클라우드는 보기엔 예쁘지만 약점이 있습니다. 어떤 약점일까요?
+*벨로그에 답변 정리 예정*
+
+**DataCamp - Data Visualization in Power BI**
+* Reducing Cognitive Load (완료)
+* Line and area charts
+* Combo & Tornado charts
+
+
+</div>
+</details>
+
+
+<details>
 <summary>23.04.13</summary>
 <div markdown="1">
 
