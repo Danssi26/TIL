@@ -7,6 +7,16 @@
 # 23.04
 
 <details>
+<summary>23.04.18</summary>
+<div markdown="1">
+
+**`월스트리트저널 인포그래픽 가이드` 읽기**
+* 참조점을 제시하는 사람이 메시지를 통제한다
+
+</div>
+</details>
+
+<details>
 <summary>23.04.14</summary>
 <div markdown="1">
 
