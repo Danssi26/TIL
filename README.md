@@ -7,6 +7,20 @@
 # 23.04
 
 <details>
+<summary>23.04.19</summary>
+<div markdown="1">
+
+**DataCamp - Data Visualization in Power BI**
+* Reducing Cognitive Load (복습)
+* Line and area charts
+* Combo & Tornado charts
+
+
+</div>
+</details>
+
+
+<details>
 <summary>23.04.18</summary>
 <div markdown="1">
 
