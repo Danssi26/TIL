@@ -10,6 +10,21 @@
 <summary>23.04.19</summary>
 <div markdown="1">
 
+
+**`월스트리트저널 인포그래픽 가이드` 읽기**
+* 수치에 맥락 제공
+* 숫자의 끝처리는 가장 나중에
+* 가독성 
+
+
+</div>
+</details>
+
+
+<details>
+<summary>23.04.19</summary>
+<div markdown="1">
+
 **DataCamp - Data Visualization in Power BI**
 * Reducing Cognitive Load (복습)
 * Line and area charts
