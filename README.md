@@ -7,7 +7,22 @@
 # 23.04
 
 <details>
-<summary>23.04.19</summary>
+<summary>23.04.22</summary>
+<div markdown="1">
+
+
+**`월스트리트저널 인포그래픽 가이드` 읽기**
+* 기울기 -> 기울기를 과장하면 메시지도 과장되고, 기울기가 너무 평평하면 메시지도 평평
+* 선은 연속적인 데이터 흐름에만 활용
+* 차트 하나에 선은 네개 이하
+
+
+</div>
+</details>
+
+
+<details>
+<summary>23.04.20</summary>
 <div markdown="1">
 
 
