@@ -7,6 +7,19 @@
 # 23.04
 
 <details>
+<summary>23.04.23</summary>
+<div markdown="1">
+
+
+**`데이타 파이프라인 핵심 가이드` 읽기**
+
+
+
+</div>
+</details>
+
+
+<details>
 <summary>23.04.22</summary>
 <div markdown="1">
 
