@@ -7,6 +7,20 @@
 # 23.04
 
 <details>
+<summary>23.04.24</summary>
+<div markdown="1">
+
+
+**`월스트리트저널 인포그래픽 가이드` 읽기**
+* 
+
+**토이 프로젝트 회의**
+
+
+</div>
+</details>
+
+<details>
 <summary>23.04.23</summary>
 <div markdown="1">
 
