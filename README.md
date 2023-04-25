@@ -7,6 +7,19 @@
 # 23.04
 
 <details>
+<summary>23.04.25</summary>
+<div markdown="1">
+
+
+**이산수학 특강**
+
+**자기소개서 수정 및 제출**
+
+
+</div>
+</details>
+
+<details>
 <summary>23.04.24</summary>
 <div markdown="1">
 
