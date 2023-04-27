@@ -7,6 +7,15 @@
 # 23.04
 
 <details>
+<summary>23.04.27</summary>
+<div markdown="1">
+
+
+**면접 스터디 참여**
+
+
+
+<details>
 <summary>23.04.25</summary>
 <div markdown="1">
 
