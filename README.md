@@ -4,6 +4,21 @@
 
 **22년도 9월부터 작성 중**
 
+# 23.05
+
+<details>
+<summary>23.05.05</summary>
+<div markdown="1">
+
+
+**모각코 참여**
+* SQL 기초 복기
+* 
+
+</div>
+</details>
+
+
 # 23.04
 
 <details>
@@ -13,6 +28,8 @@
 
 **면접 스터디 참여**
 
+</div>
+</details>
 
 
 <details>
