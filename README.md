@@ -7,6 +7,24 @@
 # 23.05
 
 <details>
+<summary>23.05.07</summary>
+<div markdown="1">
+
+
+**SQL 기초 함수 복습**
+* SQRT  
+제곱근, 제곱하여 X가 되는 값을 반환, X값은 0이상의 값이어야하며, 부적절한 값을 넣을 경우, NULL을 반환
+
+* COALESCE  
+COALESCE(COLMN, 0), 값이 NULL 이면 NULL 대신 0을 넣어줌
+
+
+**ADsP 기출 1회독**
+
+</div>
+</details>
+
+<details>
 <summary>23.05.05</summary>
 <div markdown="1">
 
