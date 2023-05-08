@@ -7,6 +7,18 @@
 # 23.05
 
 <details>
+<summary>23.05.08</summary>
+<div markdown="1">
+
+
+**ADsP 기출 1회독**
+
+
+</div>
+</details>
+
+
+<details>
 <summary>23.05.07</summary>
 <div markdown="1">
 
@@ -17,6 +29,7 @@
 
 * COALESCE  
 COALESCE(COLMN, 0), 값이 NULL 이면 NULL 대신 0을 넣어줌
+
 
 
 **ADsP 기출 1회독**
