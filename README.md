@@ -7,20 +7,34 @@
 # 23.05
 
 <details>
-<summary>23.05.14</summary>
+<summary>23.05.17</summary>
 <div markdown="1">
 
 
-
 **ADsP**
+* 30회 모의고사 풀이 및 미흡한 개념 정리
 
 </div>
 </details>
 
+
+<details>
+<summary>23.05.14</summary>
+<div markdown="1">
+
+
+**ADsP**
+
+**기술 면접 예상 질문 답변 작성**
+* 데이터 시각화 관련 질문
+
+</div>
+</details>
+
+
 <details>
 <summary>23.05.12</summary>
 <div markdown="1">
-
 
 
 **토이 프로젝트 진행**
