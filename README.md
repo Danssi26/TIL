@@ -6,6 +6,39 @@
 
 # 23.05
 
+
+<details>
+<summary>23.05.24</summary>
+<div markdown="1">
+
+**DATACAMP - Python Fundamental**
+
+**프로그래머스 SQL 코딩 테스트 풀이**
+* [조건에 부합하는 중고거래 상태 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/164672)
+
+</div>
+</details>
+
+
+<details>
+<summary>23.05.20</summary>
+<div markdown="1">
+
+
+**DATACAMP - Python Fundamental**
+
+**백준 파이썬 코딩 테스트**
+* [10103. 주사위 게임](https://github.com/Danssi26/Coding_Test_Hub/tree/main/%EB%B0%B1%EC%A4%80/Bronze/10103.%E2%80%85%EC%A3%BC%EC%82%AC%EC%9C%84%E2%80%85%EA%B2%8C%EC%9E%84)
+* [11021. A＋B － 7](https://github.com/Danssi26/Coding_Test_Hub/tree/main/%EB%B0%B1%EC%A4%80/Bronze/11021.%E2%80%85A%EF%BC%8BB%E2%80%85%EF%BC%8D%E2%80%857)
+* [11022. A＋B － 8](https://github.com/Danssi26/Coding_Test_Hub/tree/main/%EB%B0%B1%EC%A4%80/Bronze/11022.%E2%80%85A%EF%BC%8BB%E2%80%85%EF%BC%8D%E2%80%858)
+* [11653. 소인수분해](https://github.com/Danssi26/Coding_Test_Hub/tree/main/%EB%B0%B1%EC%A4%80/Bronze/11653.%E2%80%85%EC%86%8C%EC%9D%B8%EC%88%98%EB%B6%84%ED%95%B4)
+* [2588. 곱셈](https://github.com/Danssi26/Coding_Test_Hub/tree/main/%EB%B0%B1%EC%A4%80/Bronze/2588.%E2%80%85%EA%B3%B1%EC%85%88)
+
+
+</div>
+</details>
+
+
 <details>
 <summary>23.05.18</summary>
 <div markdown="1">
@@ -224,7 +257,7 @@ COALESCE(COLMN, 0), 값이 NULL 이면 NULL 대신 0을 넣어줌
 
 **프로그래머스 SQL 코딩 테스트 풀이**
 
-*작성 코드 https://github.com/Danssi26/Coding_Test_Hub/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv4*
+*[작성 코드](https://github.com/Danssi26/Coding_Test_Hub/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv4)*
 * [level 4] 년, 월, 성별 별 상품 구매 회원 수 구하기
 * [level 4] 서울에 위치한 식당 목록 출력하기  
 
