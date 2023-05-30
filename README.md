@@ -6,6 +6,19 @@
 
 # 23.05
 
+<details>
+<summary>23.05.30/summary>
+<div markdown="1">
+
+**DATACAMP - Python Fundamental**
+
+**데이터 파이프라인 핵심 가이드**
+* 데이터 과학 및 데이터 제품&머신러닝을 위한 ELT
+
+
+</div>
+</details>
+
 
 <details>
 <summary>23.05.24</summary>
