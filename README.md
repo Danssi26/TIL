@@ -7,6 +7,18 @@
 # 23.05
 
 <details>
+<summary>23.05.31/summary>
+<div markdown="1">
+
+**DATACAMP - Python Fundamental review**
+
+**인프런 - 내 가치를 높이는 노션 이력서 만들기**
+* 아직 초반 수강 중. 노션 극 기초부터 알려주기 때문에 노션으로 포토폴리오를 제작하고 싶지만 기초가 없으면 추천. 
+
+</div>
+</details>
+
+<details>
 <summary>23.05.30/summary>
 <div markdown="1">
 
