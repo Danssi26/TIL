@@ -8,6 +8,16 @@
 # 23.06
 
 <details>
+<summary>23.06.03/summary>
+<div markdown="1">
+
+**DATACAMP - Python Fundamental review**
+
+</div>
+</details>
+
+
+<details>
 <summary>23.06.01/summary>
 <div markdown="1">
 
