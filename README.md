@@ -8,7 +8,7 @@
 # 23.06
 
 <details>
-<summary>23.06.03/summary>
+<summary>23.06.03</summary>
 <div markdown="1">
 
 **DATACAMP - Python Fundamental review**
@@ -18,7 +18,7 @@
 
 
 <details>
-<summary>23.06.01/summary>
+<summary>23.06.01</summary>
 <div markdown="1">
 
 **`월스트리트저널 인포그래픽 가이드` - 막대차트**
@@ -34,7 +34,7 @@
 # 23.05
 
 <details>
-<summary>23.05.31/summary>
+<summary>23.05.31</summary>
 <div markdown="1">
 
 **DATACAMP - Python Fundamental review**
@@ -46,7 +46,7 @@
 </details>
 
 <details>
-<summary>23.05.30/summary>
+<summary>23.05.30</summary>
 <div markdown="1">
 
 **DATACAMP - Python Fundamental**
