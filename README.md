@@ -8,6 +8,17 @@
 # 23.06
 
 <details>
+<summary>23.06.06</summary>
+<div markdown="1">
+
+**DataCamp - Data Visualization in Power BI**
+
+
+</div>
+</details>
+
+
+<details>
 <summary>23.06.05</summary>
 <div markdown="1">
 
@@ -23,6 +34,7 @@
 
 </div>
 </details>
+
 
 <details>
 <summary>23.06.03</summary>
