@@ -8,6 +8,16 @@
 # 23.06
 
 <details>
+<summary>23.06.07</summary>
+<div markdown="1">
+
+**SQLD - 2장 데이터 모델과 성능**
+
+
+</div>
+</details>
+
+<details>
 <summary>23.06.06</summary>
 <div markdown="1">
 
