@@ -8,6 +8,17 @@
 # 23.06
 
 <details>
+<summary>23.06.11</summary>
+<div markdown="1">
+
+**면접 준비**
+* 기업 예상 질문 뽑고 답변 작성
+* 프로젝트 관련 예상 질문 뽑기
+
+</div>
+</details>
+
+<details>
 <summary>23.06.07</summary>
 <div markdown="1">
 
