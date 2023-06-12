@@ -8,6 +8,16 @@
 # 23.06
 
 <details>
+<summary>23.06.12/summary>
+<div markdown="1">
+
+**데이터 파이프라인 핵심 가이드**
+
+</div>
+</details>
+
+
+<details>
 <summary>23.06.11</summary>
 <div markdown="1">
 
