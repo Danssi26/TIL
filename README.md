@@ -7,6 +7,18 @@
 
 # 23.06
 
+
+<details>
+<summary>23.06.19/summary>
+<div markdown="1">
+
+**ChatGPT 업무 자동화 실습**
+* 스크래핑 코드 요청(올렸다가 이슈생길수도 있을 것 같아 업로드는 안함)
+
+</div>
+</details>
+
+
 <details>
 <summary>23.06.12/summary>
 <div markdown="1">
