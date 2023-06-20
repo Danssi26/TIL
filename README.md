@@ -9,10 +9,10 @@
 
 
 <details>
-<summary>23.06.20/summary>
+<summary>23.06.20</summary>
 <div markdown="1">
 
-**ChatGPT 알고리즘 학습**
+**ChatGPT 알고리즘**
 * GPT 3.5는 1750억 개의 파라미터를 가지며 RLHF를 통해 GPT3를 대화에 최적화
 * Auto Regressive (GPT) -> 순차 빈칸 생성 방식
 
@@ -22,7 +22,7 @@
 
 
 <details>
-<summary>23.06.19/summary>
+<summary>23.06.19</summary>
 <div markdown="1">
 
 **ChatGPT 업무 자동화 실습**
@@ -33,7 +33,7 @@
 
 
 <details>
-<summary>23.06.12/summary>
+<summary>23.06.12</summary>
 <div markdown="1">
 
 **데이터 파이프라인 핵심 가이드**
