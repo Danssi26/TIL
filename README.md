@@ -7,6 +7,19 @@
 # 23.11
 
 <details>
+<summary>23.11.29</summary>
+<div markdown="1">
+
+**Programmers Python 코딩테스트**
+* [과일 장수](https://school.programmers.co.kr/learn/courses/30/lessons/135808) : 테스트 중에 런타임 에러 발생..원인 찾기하다 실패 차후에 재도전
+
+**선형 회귀 관련 개념 공부**
+
+</div>
+</details>
+
+
+<details>
 <summary>23.11.26</summary>
 <div markdown="1">
 
